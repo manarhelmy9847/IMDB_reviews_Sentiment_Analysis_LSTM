@@ -51,7 +51,7 @@ The model predicts whether a review expresses a **positive** or **negative** sen
 
 ## 📊 Results
 
-- Achieved **87% accuracy** on the test set.
+- Achieved **88% accuracy** on the test set.
 - LSTM model successfully learned sentiment patterns from review texts.
 
 ---
